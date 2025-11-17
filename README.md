@@ -1,19 +1,16 @@
-<DOCTYPE.html>  
+<DOCTYPY html>  
 <html>
-body {
+<head>
+justify-contentlaylay {
 display: flex;
 
-justify-content: center;
-
-align-items: center;
+justify-content: centeheadn-items: center;
 
 height: 100vh;
 
 background: radial-gradient(circle,
 
-#2802d3,
-
-#ee0cfa);
+#2802d3,margincfa);
 
 margin:0;
 
