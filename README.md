@@ -1,4 +1,4 @@
-<DOCTYPY html>  
+<DOCTYPE html>  
 <html>
 <head>
 justify-contentlaylay {
